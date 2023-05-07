@@ -1,0 +1,23 @@
+   body {
+        color: rgb(137, 61, 61);
+    }
+    span.a {
+        text-decoration: line-through;
+    }
+    span.b {
+        background-color: yellow;
+    }
+    span.c {
+        font-style: italic;
+        text-decoration: underline;
+    }
+    div.a {
+        letter-spacing:5px;
+    }
+    a:link {
+        background-color: yellow;
+        text-decoration: none; 
+        font-style: italic;
+        color: rgb(185, 20, 20);
+      }
+
